@@ -1,5 +1,0 @@
-/* Comandos para compilação (Projeto de SO)*/
-
-g++ (compilar arquivos em C++) teste.cpp FCFS.cpp -o teste(nome do executável)
-./teste
-
